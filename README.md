@@ -37,3 +37,6 @@ Painel solar conectado ao sistema de energia da boia para garantir o funcionamen
 
 <h2>Projeto no Thinkercad</h2>
 <a target="blank" href="https://www.tinkercad.com/things/4vYvMlB7Rsh-solucao-gs/editel?sharecode=EFHhShemsIgRm-nKBhXCd1lBGvixJrLOS7fmvPMEGCs">https://www.tinkercad.com/things/4vYvMlB7Rsh-solucao-gs/editel?sharecode=EFHhShemsIgRm-nKBhXCd1lBGvixJrLOS7fmvPMEGCs</a>
+
+<h2>Video Explicativo</h2>
+<a target="blank" href="https://youtu.be/a0XuGCWfLZQ">youtube.com/Global-Solution</a>
